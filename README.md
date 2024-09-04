@@ -1,2 +1,2 @@
-# jobportal
-Full Stack Job portal with react , tailwind, Supabase, shadcn ui, clerk
+Refer 
+https://www.youtube.com/watch?v=2XF-HgauItk
